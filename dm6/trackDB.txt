@@ -1,0 +1,7 @@
+track my_bb_track
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl sorted_all_beds.bb
+shortLabel shortTrackName
+longLabel longTrackName
