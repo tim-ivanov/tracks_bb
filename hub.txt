@@ -1,0 +1,5 @@
+hub unwind_exonerate
+shortLabel 0
+longLabel 0 percent identity minimum
+genomesFile genomes.txt
+email tim.ivanov.92@gmail.com
