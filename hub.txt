@@ -1,5 +1,5 @@
-hub unwind_exonerate
-shortLabel 0
-longLabel 0 percent identity minimum
+hub exonerate_duplications
+shortLabel exonerate
+longLabel exonerate duplications of exons
 genomesFile genomes.txt
 email tim.ivanov.92@gmail.com
