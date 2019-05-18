@@ -28,3 +28,33 @@ bigDataUrl 40_sorted_all_beds.bb
 shortLabel greater 40
 longLabel similarity greater then 40
 
+
+track panhandles_1
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl panhandles_1.bb
+shortLabel panhandles_1
+longLabel panhandles from Sveta
+
+track panhandles_2
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl panhandles_2.bb
+shortLabel panhandles_2
+longLabel panhandles from Sveta
+
+track panhandles_3
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl panhandles_3.bb
+shortLabel panhandles_3
+longLabel panhandles from Sveta
