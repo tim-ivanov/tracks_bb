@@ -1,2 +1,5 @@
 genome dm6
 trackDb dm6/trackDB.txt
+
+genome hg19
+trackDb hg19/trackDB.txt
