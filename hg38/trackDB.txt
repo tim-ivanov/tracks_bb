@@ -1,0 +1,9 @@
+track 20_identity
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl lncRNA_Rory.bb
+shortLabel greater 20
+longLabel similarity greater then 20
