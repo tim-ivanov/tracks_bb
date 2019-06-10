@@ -38,3 +38,25 @@ visibility full
 bigDataUrl 80_sorted_all_beds.bb
 shortLabel greater 80
 longLabel similarity greater then 80
+
+
+track 90_identity
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl 90_sorted_all_beds.bb
+shortLabel greater 90
+longLabel similarity greater then 90
+
+
+track 95_identity
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl 95_sorted_all_beds.bb
+shortLabel greater 95
+longLabel similarity greater then 95
