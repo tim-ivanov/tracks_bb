@@ -60,3 +60,14 @@ visibility full
 bigDataUrl 95_sorted_all_beds.bb
 shortLabel greater 95
 longLabel similarity greater then 95
+
+track 60_last_named
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl 60_sorted_all_beds_AGGC.bb
+shortLabel greater 60
+longLabel similarity greater then 60 last version
+
