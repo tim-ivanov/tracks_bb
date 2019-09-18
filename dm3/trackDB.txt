@@ -1,0 +1,9 @@
+track junctions
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl dm3_junktions.bb
+shortLabel junctions_reads
+longLabel supported_reads
