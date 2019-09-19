@@ -58,3 +58,13 @@ visibility full
 bigDataUrl panhandles_3.bb
 shortLabel panhandles_3
 longLabel panhandles from Sveta
+
+track reads
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl dm6_junktions.bb
+shortLabel junctions
+longLabel double break reads
