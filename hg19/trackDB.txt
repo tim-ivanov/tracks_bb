@@ -61,3 +61,13 @@ bigDataUrl 60_sorted_all_beds_AGGC.bb
 shortLabel greater 60
 longLabel similarity greater then 60 last version
 
+track 60_coding_cds_query
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl all_sorted_60_identity_CODING_CDS_query_.bb
+shortLabel coding query 60
+longLabel 60 identity CODING CDS query
+
