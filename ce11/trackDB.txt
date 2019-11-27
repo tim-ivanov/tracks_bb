@@ -1,0 +1,9 @@
+track 0_identity
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+itemRgb on
+visibility full
+bigDataUrl sorted_merged_unique.bb
+shortLabel greater 0
+longLabel similarity greater then 0
