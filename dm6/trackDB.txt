@@ -69,7 +69,7 @@ bigDataUrl dm6_junktions.bb
 shortLabel junctions
 longLabel double break reads
 
-track junctions in introns
+track junctions_in_introns
 type bigBed 12 +
 exonArrows off
 exonNumbers off
