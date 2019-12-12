@@ -75,6 +75,6 @@ exonArrows off
 exonNumbers off
 itemRgb on
 visibility full
-dm6_unannotated_junctions.bb
+bigDataUrl dm6_unannotated_junctions.bb
 shortLabel Unannotated_junctions
 longLabel junctions for exonerate targets in introns
