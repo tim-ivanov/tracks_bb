@@ -71,8 +71,8 @@ longLabel double break reads
 
 track junctions_in_introns
 type bigBed 12 +
-exonArrows off
-exonNumbers off
+exonArrows on
+exonNumbers on
 itemRgb on
 visibility full
 bigDataUrl dm6_unannotated_junctions.bb
