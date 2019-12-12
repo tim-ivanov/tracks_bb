@@ -76,5 +76,5 @@ exonNumbers off
 itemRgb on
 visibility full
 dm6_unannotated_junctions.bb
-shortLabel Unannotated junctions
-longLabel double break reads
+shortLabel Unannotated_junctions
+longLabel junctions for exonerate targets in introns
